@@ -1,2 +1,0 @@
-# Gymapp
-Building gym app
